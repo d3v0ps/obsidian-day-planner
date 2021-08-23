@@ -1,0 +1,16 @@
+{
+  "customFolder": "Day Planners",
+  "mode": 0,
+  "initialTemplate": "---\ntags: planner/daily\ndate: YYYY-MM-DD\n---\n\n## Day Planner\n\n### Morning\n\n- [ ] 07:00 Wake up\n- [ ] 07:30 Breakfast\n- [ ] 08:00 Shower\n- [ ] 08:30 BREAK\n- [ ] 11:00 Coffee\n- [ ] 11:30 BREAK\n\n### Afternoon\n\n- [ ] 14:00 Lunch\n- [ ] 15:00 BREAK\n- [ ] 18:00 Coffee\n- [ ] 18:30 BREAK\n\n### Evening\n\n- [ ] 20:30 Plan next day\n- [ ] 21:00 Dinner\n- [ ] 21:30 BREAK\n- [ ] 23:00 END\n",
+  "mermaid": false,
+  "notesToDates": [],
+  "completePastItems": true,
+  "circularProgress": false,
+  "nowAndNextInStatusBar": true,
+  "showTaskNotification": true,
+  "createNextDayPlanner": true,
+  "timelineZoomLevel": 4,
+  "timelineIcon": "calendar-with-checkmark",
+  "breakLabel": "BREAK",
+  "endLabel": "END"
+}
